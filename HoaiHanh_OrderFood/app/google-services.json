@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678388703403",
+    "firebase_url": "https://hoaihanhorderfood-default-rtdb.firebaseio.com",
+    "project_id": "hoaihanhorderfood",
+    "storage_bucket": "hoaihanhorderfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678388703403:android:c4a04a99bf261bf99457ee",
+        "android_client_info": {
+          "package_name": "com.hoaihanh_orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678388703403-toalqch22tpqvfhf1ant8mpkoih7v4rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHaYUK3fGmHrvO-KOHBGVxrPscYMFA2Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678388703403-toalqch22tpqvfhf1ant8mpkoih7v4rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

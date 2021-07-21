@@ -1,0 +1,444 @@
+{
+  "Category" : {
+    "01" : {
+      "image" : "https://vuakhuyenmai.vn/wp-content/uploads/KFC-khuyen-mai-moi-nhat-80k-1-3-2021.jpg",
+      "name" : "COMBO"
+    },
+    "02" : {
+      "image" : "https://tuyendung.kfcvietnam.com.vn/Data/Sites/1/News/50/01-red-annule.png",
+      "name" : "DANH MỤC GÀ"
+    },
+    "03" : {
+      "image" : "https://kenh14cdn.com/2020/3/20/hham1-1584419925016927615655-1584711892037664216088.jpg",
+      "name" : "BURGER"
+    },
+    "04" : {
+      "image" : "https://scontent-xsp1-3.xx.fbcdn.net/v/t1.18169-9/11214134_702175456481370_1658907365560020472_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=qImeTnM0_GQAX9q2xcX&_nc_ht=scontent-xsp1-3.xx&oh=2aea08f00cfcee15968ef3e6d5539455&oe=60F8CA4C",
+      "name" : "CƠM GÀ"
+    },
+    "05" : {
+      "image" : "https://static.wixstatic.com/media/e402ed_90463c37199f4f92aa2792fd01aab33b~mv2.png/v1/fill/w_720,h_405,al_c/e402ed_90463c37199f4f92aa2792fd01aab33b~mv2.png",
+      "name" : "THỨC UỐNG"
+    },
+    "06" : {
+      "image" : "https://scontent-xsp1-3.xx.fbcdn.net/v/t1.18169-9/10386818_571434699555447_8002399489410652755_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9267fe&_nc_ohc=2JyKVYQV38UAX9y58OW&_nc_ht=scontent-xsp1-3.xx&oh=c0a8a1312df0e0b67c80030745793d22&oe=60F89457",
+      "name" : "MÓN ĂN KÈM"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://tadiha.com/pictures/picfullsizes/2020/04/23/gnh1587617300.jpg",
+      "menuId" : "01",
+      "name" : "COMBO GÀ GIÒN CAY",
+      "price" : "82000"
+    },
+    "02" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://images.foody.vn/res/g18/172886/s750x750/cafbd118-5d26-4529-8179-cb27532f-c28c024e-210524155304.jpeg",
+      "menuId" : "01",
+      "name" : "COMBO GÀ GIÒN KHÔNG CAY",
+      "price" : "82000"
+    },
+    "03" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-3.xx.fbcdn.net/v/t31.18172-8/1498995_507217359310515_1863354031_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9267fe&_nc_ohc=EoN2l6AGXz8AX-O-ape&_nc_ht=scontent-xsp1-3.xx&oh=8b7d8a0354dddc3d88efefe18652c8e2&oe=60F821A6",
+      "menuId" : "01",
+      "name" : "COMBO GÀ QUAY TIÊU",
+      "price" : "82000"
+    },
+    "04" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-3.xx.fbcdn.net/v/t31.18172-8/1498995_507217359310515_1863354031_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9267fe&_nc_ohc=EoN2l6AGXz8AX-O-ape&_nc_ht=scontent-xsp1-3.xx&oh=8b7d8a0354dddc3d88efefe18652c8e2&oe=60F821A6",
+      "menuId" : "01",
+      "name" : "COMBO GÀ QUAY GIẤY BẠC",
+      "price" : "82000"
+    },
+    "05" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://vietgifts.com/wp-content/uploads/2018/12/kfc-xl-meal-original-recipe-chicken.jpg",
+      "menuId" : "01",
+      "name" : "COMBO TEENS CHOICE",
+      "price" : "63000"
+    },
+    "06" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t31.18172-8/27992933_1242947719070805_182975342479781201_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=k0U_IyYSqioAX9WeqaS&tn=XcVXwil_hezjBH5Z&_nc_ht=scontent-xsp1-1.xx&oh=6055a8289fccd048cfd9f84fddf3d9c6&oe=60F7A3DA",
+      "menuId" : "01",
+      "name" : "COMBO KIDDIE",
+      "price" : "57000"
+    },
+    "07" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-2.xx.fbcdn.net/v/t1.18169-9/10176072_541812435851007_6448935675400261597_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=9267fe&_nc_ohc=d_bmiAnu3iYAX_UNwWi&_nc_ht=scontent-xsp1-2.xx&oh=67a34c15186e7ba0db8c30cff56849ad&oe=60F72D5D",
+      "menuId" : "01",
+      "name" : "COMBO XL MEAL",
+      "price" : "101000"
+    },
+    "08" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/Combo-g%C3%A0-v%E1%BA%A3y-b%E1%BA%AFp-s%E1%BB%91t-b%C6%A1-2-ng%C6%B0%E1%BB%9Di.png",
+      "menuId" : "01",
+      "name" : "COMBO 2 NGƯỜI",
+      "price" : "183000"
+    },
+    "09" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/Combo-g%C3%A0-v%E1%BA%A3y-b%E1%BA%AFp-s%E1%BB%91t-b%C6%A1-cho-nh%C3%B3m.png",
+      "menuId" : "01",
+      "name" : "COMBO 3 NGƯỜI",
+      "price" : "254000"
+    },
+    "10" : {
+      "description" : "1 MIẾNG",
+      "discount" : "0",
+      "image" : "https://cdn.chanhtuoi.com/uploads/2016/07/kfc.png",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN CAY",
+      "price" : "36000"
+    },
+    "11" : {
+      "description" : "2 MIẾNG",
+      "discount" : "0",
+      "image" : "https://cdn.chanhtuoi.com/uploads/2016/07/kfc.png",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN CAY",
+      "price" : "68000"
+    },
+    "12" : {
+      "description" : "3 MIẾNG",
+      "discount" : "0",
+      "image" : "https://cdn.chanhtuoi.com/uploads/2016/07/kfc.png",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN CAY",
+      "price" : "99000"
+    },
+    "13" : {
+      "description" : "6 MIẾNG",
+      "discount" : "0",
+      "image" : "https://cdn.chanhtuoi.com/uploads/2016/07/kfc.png",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN CAY",
+      "price" : "195000"
+    },
+    "14" : {
+      "description" : "9 MIẾNG",
+      "discount" : "0",
+      "image" : "https://cdn.chanhtuoi.com/uploads/2016/07/kfc.png",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN CAY",
+      "price" : "289000"
+    },
+    "15" : {
+      "description" : "1 MIẾNG",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t31.18172-8/29354342_1282085795156997_2717591678013512053_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=L_g5qn5OJScAX8bKQ_x&tn=XcVXwil_hezjBH5Z&_nc_ht=scontent-xsp1-1.xx&oh=5ba6c89c219bd9daf5765ee021fdf8a0&oe=60F71869",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN KHÔNG CAY",
+      "price" : "36000"
+    },
+    "16" : {
+      "description" : "2 MIẾNG",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t31.18172-8/29354342_1282085795156997_2717591678013512053_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=L_g5qn5OJScAX8bKQ_x&tn=XcVXwil_hezjBH5Z&_nc_ht=scontent-xsp1-1.xx&oh=5ba6c89c219bd9daf5765ee021fdf8a0&oe=60F71869",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN KHÔNG CAY",
+      "price" : "68000"
+    },
+    "17" : {
+      "description" : "3 MIẾNG",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t31.18172-8/29354342_1282085795156997_2717591678013512053_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=L_g5qn5OJScAX8bKQ_x&tn=XcVXwil_hezjBH5Z&_nc_ht=scontent-xsp1-1.xx&oh=5ba6c89c219bd9daf5765ee021fdf8a0&oe=60F71869",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN KHÔNG CAY",
+      "price" : "99000"
+    },
+    "18" : {
+      "description" : "6 MIẾNG",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t31.18172-8/29354342_1282085795156997_2717591678013512053_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=L_g5qn5OJScAX8bKQ_x&tn=XcVXwil_hezjBH5Z&_nc_ht=scontent-xsp1-1.xx&oh=5ba6c89c219bd9daf5765ee021fdf8a0&oe=60F71869",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN KHÔNG CAY",
+      "price" : "195000"
+    },
+    "19" : {
+      "description" : "9 MIẾNG",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t31.18172-8/29354342_1282085795156997_2717591678013512053_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=L_g5qn5OJScAX8bKQ_x&tn=XcVXwil_hezjBH5Z&_nc_ht=scontent-xsp1-1.xx&oh=5ba6c89c219bd9daf5765ee021fdf8a0&oe=60F71869",
+      "menuId" : "02",
+      "name" : "GÀ GIÒN KHÔNG CAY",
+      "price" : "289000"
+    },
+    "20" : {
+      "description" : "2 MIẾNG",
+      "discount" : "0",
+      "image" : "https://i.pinimg.com/564x/95/23/cb/9523cb2639c5fdbbba8b0a0006acc315.jpg",
+      "menuId" : "02",
+      "name" : "CÁNH GÀ WINGS",
+      "price" : "71000"
+    },
+    "21" : {
+      "description" : "1 CÁI",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-2.xx.fbcdn.net/v/t1.18169-9/30516619_621226254889010_1785937346761586128_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=qGKlqfL6J6gAX-gMjWW&_nc_ht=scontent-xsp1-2.xx&oh=10b42531eaac30c0e7d3b32b265e9204&oe=60F7471A",
+      "menuId" : "02",
+      "name" : "ĐÙI GÀ QUAY GIẤY BẠC",
+      "price" : "68000"
+    },
+    "22" : {
+      "description" : "1 CÁI",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/G%C3%A0-Quay-Ti%C3%AAu.jpg",
+      "menuId" : "02",
+      "name" : "ĐÙI GÀ QUAY TIÊU",
+      "price" : "68000"
+    },
+    "23" : {
+      "description" : "1 CÁI",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/B%C6%A1-g%C6%A1-g%C3%A0-quay-Flava.jpg",
+      "menuId" : "03",
+      "name" : "BURGER GÀ QUAY FLAVA",
+      "price" : "47000"
+    },
+    "24" : {
+      "description" : "1 CÁI",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/B%C6%A1-G%C6%A1-Zinger.jpg",
+      "menuId" : "03",
+      "name" : "BURGER ZINGER",
+      "price" : "51000"
+    },
+    "25" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/C%C6%A1m-Phi-L%C3%AA-G%C3%A0-Quay-Ti%C3%AAu.jpg",
+      "menuId" : "04",
+      "name" : "CƠM GÀ QUAY TIÊU",
+      "price" : "41000"
+    },
+    "26" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/C%C6%A1m-G%C3%A0-R%C3%A1n-Gi%C3%B2n-Cay.jpg",
+      "menuId" : "04",
+      "name" : "CƠM GÀ GIÒN KHÔNG CAY",
+      "price" : "41000"
+    },
+    "27" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://jollibee.com.vn/uploads/dish/b827535750c3e4-hinhghep07.png",
+      "menuId" : "04",
+      "name" : "CƠM GÀ GIÒN CAY",
+      "price" : "41000"
+    },
+    "28" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/C%C6%A1m-Phi-L%C3%AA-G%C3%A0-Quay-Flava.jpg",
+      "menuId" : "04",
+      "name" : "CƠM GÀ QUAY FLAVA",
+      "price" : "41000"
+    },
+    "29" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://shipdoandemff.com/wp-content/uploads/2018/05/C%C6%A1m-G%C3%A0-X%C3%A0o-S%E1%BB%91t-Nh%E1%BA%ADt.png",
+      "menuId" : "04",
+      "name" : "CƠM GÀ XÀO SỐT NHẬT",
+      "price" : "41000"
+    },
+    "30" : {
+      "description" : "1 CÂY",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-3.xx.fbcdn.net/v/t1.18169-9/29597831_1287499697948940_6522087567011694567_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=0omYJxF_dagAX_7qgyj&_nc_ht=scontent-xsp1-3.xx&oh=7866ffaf6f53b9131a4f2f3b875b138e&oe=60F72502",
+      "menuId" : "05",
+      "name" : "KEM SUNDAE",
+      "price" : "12000"
+    },
+    "31" : {
+      "description" : "1 CÂY",
+      "discount" : "0",
+      "image" : "https://images.foody.vn/res/g2/19548/s800/foody-kfc-coopmart-buon-ma-thuot-914-636410365909325940.jpg",
+      "menuId" : "05",
+      "name" : "KEM",
+      "price" : "5000"
+    },
+    "32" : {
+      "description" : "1 LY",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t1.6435-9/p843x403/128217283_2978783815487178_326620646052232187_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=tX0iLRWrxNEAX8DZM5u&_nc_ht=scontent-xsp1-1.xx&oh=2285726545f2937685c6244132031340&oe=60F7B7E3",
+      "menuId" : "05",
+      "name" : "TRÀ ĐÀO",
+      "price" : "24000"
+    },
+    "33" : {
+      "description" : "1 LY NHỎ",
+      "discount" : "0",
+      "image" : "http://dongvanlanh.com/wp-content/uploads/2017/10/pepsi-320w.jpeg",
+      "menuId" : "05",
+      "name" : "PEPSI / 7UP",
+      "price" : "10000"
+    },
+    "34" : {
+      "description" : "1 LY LỚN",
+      "discount" : "0",
+      "image" : "http://dongvanlanh.com/wp-content/uploads/2017/10/pepsi-320w.jpeg",
+      "menuId" : "05",
+      "name" : "PEPSI / 7UP",
+      "price" : "17000"
+    },
+    "35" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGS1GFW5zEdZZkYOhQwR39fMxOXj9fkaPn9A&usqp=CAU",
+      "menuId" : "06",
+      "name" : "SALAD",
+      "price" : "16000"
+    },
+    "36" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OCyk3XA1lfl95bzVhC3xAkaXSeXC7JsuPIDXqD0husfyiNcM_5lVP7ukNobQsOLNfjU&usqp=CAU",
+      "menuId" : "06",
+      "name" : "SALAD GÀ",
+      "price" : "20000"
+    },
+    "37" : {
+      "description" : "3 CÁI",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-3.xx.fbcdn.net/v/t31.18172-8/s1080x2048/27022088_1229045120461065_3551717215757141279_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=ofW7Duk0koUAX8ajG_g&_nc_ht=scontent-xsp1-3.xx&oh=771e84f1b967956ae53a27c88da4f82e&oe=60F820F3",
+      "menuId" : "06",
+      "name" : "THANH CÁ",
+      "price" : "41000"
+    },
+    "38" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://media.foody.vn/res/g1/4213/s599x599/2017525142456-ga-vien.jpg",
+      "menuId" : "06",
+      "name" : "GÀ POPCORN",
+      "price" : "57000"
+    },
+    "39" : {
+      "description" : "1 PHẦN",
+      "discount" : "0",
+      "image" : "https://scontent-xsp1-1.xx.fbcdn.net/v/t1.6435-9/p843x403/131582211_3015149645183928_5032633025102398367_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=rGbMMO4qUQgAX_g0JO3&_nc_ht=scontent-xsp1-1.xx&oh=d97dcba11d85a23cb544717cb0dedbc5&oe=60F82418",
+      "menuId" : "06",
+      "name" : "KHOAI TÂY CHIÊN",
+      "price" : "19000"
+    },
+    "40" : {
+      "description" : "1 CÁI",
+      "discount" : "0",
+      "image" : "https://toplist.vn/images/800px/kfc-450177.jpg",
+      "menuId" : "06",
+      "name" : "BÁNH TRỨNG",
+      "price" : "17000"
+    }
+  },
+  "Rating" : {
+    "0327333718" : {
+      "comment" : "rất tuyệt",
+      "foodId" : "17",
+      "rateValue" : "5",
+      "userPhone" : "0123456789"
+    }
+  },
+  "Requests" : {
+    "1514715365870" : {
+      "address" : "40/20 Đường 27, Phường Tân Sơn Nhì, Quận Tân Phú, TP.HCM",
+      "foods" : [ {
+        "discount" : "1 LY PEPSI NHỎ",
+        "price" : "41000",
+        "productId" : "25",
+        "productname" : "CƠM GÀ QUAY TIÊU",
+        "quantity" : "1"
+      } ],
+      "name" : "NGỌC",
+      "phone" : "0332774232",
+      "status" : "0",
+      "total" : "42000VNĐ"
+    },
+    "1514725602166" : {
+      "address" : "140 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",
+      "foods" : [ {
+        "discount" : "1 PHẦN SALAD",
+        "price" : "289000",
+        "productId" : "19",
+        "productname" : "GÀ GIÒN KHÔNG CAY",
+        "quantity" : "1"
+      }, {
+        "discount" : "1 PHẦN KHOAI TÂY CHIÊN",
+        "price" : "68000",
+        "productId" : "21",
+        "productname" : "ĐÙI GÀ QUAY GIẤY BẠC",
+        "quantity" : "1"
+      } ],
+      "name" : "MINH",
+      "phone" : "0333456789",
+      "status" : "0",
+      "total" : "357000VNĐ"
+    },
+    "1514726820817" : {
+      "address" : "102 Nguyễn Quý Anh, Phường Tân Sơn Nhì, Quận Tân Phú, TP.HCM",
+      "foods" : [ {
+        "discount" : "1 PHẦN SALAD",
+        "price" : "68000",
+        "productId" : "22",
+        "productname" : "ĐÙI GÀ QUAY TIÊU",
+        "quantity" : "2"
+      } ],
+      "name" : "HOÀNG",
+      "phone" : "0909246357",
+      "status" : "0",
+      "total" : "136000VNĐ"
+    },
+    "1515337426127" : {
+      "address" : "110 Nguyễn Quý Anh, Phường Tân Sơn Nhì, Quận Tân Phú, TP.HCM",
+      "foods" : [ {
+        "discount" : "1 LY PEPSI NHỎ",
+        "price" : "47000",
+        "productId" : "23",
+        "productName" : "BURGER GÀ QUAY FLAVA",
+        "quantity" : "1"
+      } ],
+      "name" : "THƯƠNG",
+      "phone" : "0909357246",
+      "status" : "0",
+      "total" : "47000VNĐ"
+    }
+  },
+  "User" : {
+    "0327333718" : {
+      "IsStaff" : "true",
+      "Password" : "123456",
+      "name" : "NGỌC HOÀI"
+    },
+    "0332774232" : {
+      "isStaff" : "false",
+      "name" : "NHƯ NGỌC",
+      "password" : "123456"
+    },
+    "0909246357" : {
+      "IsStaff" : "true",
+      "Password" : "123456",
+      "name" : "MỸ HẠNH"
+    },
+    "0909357246" : {
+      "IsStaff" : "false",
+      "Password" : "123456",
+      "name" : "XUÂN"
+    }
+  }
+}
